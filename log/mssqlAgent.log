@@ -1,0 +1,10 @@
+2021/04/23 10:03:15 INFO logging started
+2021/04/23 10:03:15 INFO postgresql : connection test successfull
+2021/04/23 10:03:16 INFO postgresql : all data sent
+2021/04/23 10:03:16 INFO postgresql : config updated
+2021/04/23 10:03:16 INFO postgresql : sleeping
+2021/04/23 10:04:05 INFO logging started
+2021/04/23 10:04:05 INFO postgresql : connection test successfull
+2021/04/23 10:04:05 INFO postgresql : all data sent
+2021/04/23 10:04:05 INFO postgresql : config updated
+2021/04/23 10:04:05 INFO postgresql : sleeping

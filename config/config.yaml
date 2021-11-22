@@ -1,0 +1,15 @@
+config:
+- name: postgresql
+  driver: postgres
+  serverIP: 192.168.10.67
+  serverPort: 5432
+  database: license
+  table: licenseinfo
+  key: b01
+  databaseUser: vairav
+  databasePassword: vairav
+  logstashIP: 192.168.10.64
+  logstashPort: 1234
+  rowCount: 8
+  firstTime: false
+  tts: 1ns
